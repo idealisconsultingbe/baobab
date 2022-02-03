@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+    <record id="group_dashboard_smart_analytics" model="res.groups" >
+        <field name="name">Dashboard Smart Analytics</field>
+    </record>
+
+</odoo>
